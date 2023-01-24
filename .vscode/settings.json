@@ -1,3 +1,9 @@
 {
-    "idf.adapterTargetName": "esp32c3"
+    "idf.adapterTargetName": "esp32c3",
+    "files.associations": {
+        "sdkconfig.h": "c",
+        "esp_secure_cert_read.h": "c",
+        "nvs_flash.h": "c",
+        "network_transport.h": "c"
+    }
 }
